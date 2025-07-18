@@ -40,18 +40,21 @@ The goal of this project is to develop a personalized movie recommendation syste
 ## **Exploratory Data Analysis (EDA)**
 Before building the recommendation models, we performed extensive EDA to understand the dataset better. Key insights included:
 ### - ***Distribution of movie ratings***
-<img width="650" height="337" alt="image" src="https://github.com/user-attachments/assets/d76e2737-4e20-4c11-beac-3fbc310a71be" />
+<img width="913" height="562" alt="download" src="https://github.com/user-attachments/assets/a1e47122-bb82-4bb9-84a0-b23afb4435b2" />
+
 
 This histogram visualizes how users rate movies on our platform, showing a clear tendency towards positive feedback with significant peaks at higher rating values.
 
 ### - ***Most popular movies and genres***
-<img width="650" height="337" alt="image" src="https://github.com/user-attachments/assets/93b8e2cc-23dd-489b-a9a0-e904b5941c5d" />
+<img width="1800" height="966" alt="download" src="https://github.com/user-attachments/assets/16739ff4-aae2-4201-b424-b36e305bf77d" />
+
 
 This bar chart highlights the movies that have received the most ratings in the dataset. It provides insight into the most popular content among our user base
 
 ### - ***User rating distribution***
 
-<img width="650" height="337" alt="image" src="https://github.com/user-attachments/assets/ffbb3b4c-43c7-4ed2-a6bc-46a76a247fb3" />
+<img width="1781" height="882" alt="download" src="https://github.com/user-attachments/assets/c69f656c-32bd-44e8-a5b0-b20c8a49a965" />
+
 
 This histogram illustrates the distribution of rating activity across our users. It clearly shows that many users have provided only a limited number of ratings, highlighting the significant 'cold-start user' challenge that our hybrid recommendation system is designed to address
 
@@ -101,7 +104,7 @@ This project demonstrates how a hybrid recommender system can address the conten
 
 
 ## **For More Information**
-Please review our full analysis in our [Jupyter Notebook](https://github.com/Kanyenje-Brian/MovieLens-Recommender/blob/master/notebook.ipynb) or our [presentation](https://github.com/Kanyenje-Brian/MovieLens-Recommender/blob/master/Presentation.pdf).
+Please review our full analysis in the Notebook above or the presentation.
 
 For any additional questions, please contact:
 
